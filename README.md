@@ -8,7 +8,7 @@
 
 1. [Download](https://github.com/aroman/firebase-unity-applesilicon/archive/refs/heads/main.zip) this repo
 2. In your project, open the directory `Assets/Firebase/Plugins`
-3. Copy the `arm64` directory into `Assets/Firebase/Plugins`
+3. Copy the `arm64` directory from the zip you downloaded into `Assets/Firebase/Plugins`
 4. There should already be a directory named `x86_64` in `Assets/Firebase/Plugins`. Delete it.
 5. If your project was already open, you'll need to close and re-open it for the changes to take effect.
 
