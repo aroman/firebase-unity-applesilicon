@@ -1,5 +1,7 @@
 ## Firebase SDK support in the Apple Silicon Unity Editor
 
+![a dumb meme](https://i.imgflip.com/5uusb2.jpg)
+
 ### Instructions
 
 ⚠️ Before proceeding, make sure your project is committed to source control and/or backed up! Proceed at your own risk. 
