@@ -6,6 +6,8 @@
 
 ⚠️ Before proceeding, make sure your project is committed to source control and/or backed up! Proceed at your own risk. 
 
+NOTE: **Firestore support is not included currently**, as it depends on this [fix](https://github.com/firebase/firebase-ios-sdk/pull/8923) making it into a release of `firebase-ios-sdk`, which it hasn't yet.
+
 1. [Download](https://github.com/aroman/firebase-unity-applesilicon/archive/refs/heads/main.zip) this repo
 2. In your project, open the directory `Assets/Firebase/Plugins`
 3. Copy the `arm64` directory from the zip you downloaded into `Assets/Firebase/Plugins`
